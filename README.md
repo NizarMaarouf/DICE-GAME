@@ -1,6 +1,5 @@
 # DOM Pig Game
 
-A javaScript game included in [The Complete JavaScript Course: Build a Real-World Project](https://www.udemy.com/the-complete-javascript-course/) by Jonas Schmedtmann on Udemy.
 
 I am building on it.
 
