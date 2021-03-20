@@ -1,6 +1,6 @@
 {
   "name": "pig-dice-game",
-  "homepage": "https://github.com/NizarMaarouf/DICE-GAME",
+   "homepage": "https://github.com/NizarMaarouf/DICE-GAME",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
