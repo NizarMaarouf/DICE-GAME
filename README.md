@@ -1,7 +1,6 @@
 # DOM Pig Game
 
 
-I am building on it.
 
 ![Screenshot Preview](/src/img/screenshot-readme.jpg)
 
